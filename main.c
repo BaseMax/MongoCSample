@@ -9,3 +9,6 @@
 * @Repository : https://github.com/BaseMax/MongoCSample
 *
 **/
+int main() {
+  return 0;
+}
